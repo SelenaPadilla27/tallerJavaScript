@@ -1,4 +1,4 @@
-## Proyecto liquidacion prestacional
+## Taller usando JavaScript
 
 ---
 
